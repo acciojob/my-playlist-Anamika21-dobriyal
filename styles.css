@@ -9,9 +9,11 @@ h1,h2{
 li{
 	list-style-type: none;
 	
+	
 }
 a{
 	text-decoration-line: none;
+	color: black;
 }
 .h1{
 	border: 1px solid black;
